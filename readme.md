@@ -39,6 +39,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | Name | Locations | Keywords |
 |---|:---:|---|
 | **[1024 Architecture](https://www.1024architecture.net/)** | [Paris] | _architectural and digital works, orchestrated sound and light scores_ |
+| **[Algorithm](https://algorithm.ie/)** | [Dublin] | _a creative production studio creating powerful interactive experiences_ |
 | **[Art + Com](https://artcom.de/en/)** | [Berlin] | _media sculptures, data installations, new media_ |
 | **[Augmented Magic](https://www.augmented-magic.com/en/home)** | [Paris] | _augmented magic shows, digital installations_ |
 | **[AV Controls](https://www.av-controls.com/)** | [NYC] | _site-specific technology installations, digital landmarks_ |
@@ -54,10 +55,12 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | **[Hovercraft](https://www.hovercraftstudio.com/)** | [Denver] [Portland] | _interactive installations, site-specific content, retail, sports_ |
 | **[Hush Studios](https://heyhush.com/)** | [NYC] | _marketing and advertising, retail and DTC, archtecture_ |
 | **[Invisible North](https://www.invisiblenorth.com/)** | [NYC] | _culturally fluent, thoughtful experiences, bring brands to life_ |
+| **[Kuva](https://www.kuva.io/)** | [Bristol, UK] | _an award winning digital art and experience design studio_ |
 | **[Leviathan](https://www.lvthn.com/)** | [Chicago] [LA] [San Diego] | _transform environments into exceptional experiences_ |
 | **[Listen](https://wearelisten.com/)** | [NYC] | _sensory-driven brand assets, modern cultural landscape, sound, experiences_ |
 | **[Magnetic](https://weremagnetic.com/)** | [NYC] [London] [LA] | _immersive, authentic, culturally relevant experiences_ |
 | **[Manifold](https://www.wearemanifold.com/)** | [San Francisco] [LA] [Portland] | _we hire smart people and get out of their way_ |
+| **[makemepulse](http://www.makemepulse.com/)** | [Paris] | _an interactive production company using emerging technologies to connect consumers to brands_ |
 | **[Marshmallow Laser Feast](https://www.marshmallowlaserfeast.com/)** | [London] | _leaving a slug trail of sensory nuggets as we journey through the cosmos_ |
 | **[Midnight Commercial](http://midnightcommercial.com/)** | [NYC] | _unite the disparate digital and physical worlds_ |
 | **[Moment Factory](https://momentfactory.com/home)** | [Montreal] [LA] [London] [Tokyo] [Paris] [NYC] | _shows, destinations, content, interactive, scenography_ |
